@@ -1,10 +1,10 @@
 #!/bin/sh
 
-echo "Enter your first number"
+echo "Enter your 1st number"
 read first
-echo "Enter your second number"
+echo "Enter your 2nd number"
 read second
-echo "Enter your third number"
+echo "Enter your 3rd number"
 read third
 
 sum=$(( first+second+third ))
